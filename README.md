@@ -1,7 +1,4 @@
 # Fahis - Anti-Phishing Tool
-
-![Fahis Logo](https://via.placeholder.com/400x200?text=Fahis+Logo) <!-- Placeholder for a future logo -->
-
 ## Overview
 
 **Fahis** is a powerful and effective Anti-Phishing tool designed to help users identify suspicious and malicious links. The tool provides two interfaces: an attractive and interactive Graphical User Interface (GUI) for ease of use, and a Command Line Interface (CLI) for advanced users and automation. Fahis aims to protect users from phishing attacks by analyzing links and providing a comprehensive assessment of their risks.
