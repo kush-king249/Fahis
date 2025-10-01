@@ -1,0 +1,41 @@
+{
+  "safe": [
+    "google.com",
+    "facebook.com",
+    "twitter.com",
+    "linkedin.com",
+    "github.com",
+    "stackoverflow.com",
+    "wikipedia.org",
+    "youtube.com",
+    "amazon.com",
+    "microsoft.com",
+    "apple.com",
+    "netflix.com",
+    "instagram.com",
+    "reddit.com",
+    "whatsapp.com",
+    "telegram.org",
+    "zoom.us",
+    "dropbox.com",
+    "spotify.com",
+    "adobe.com"
+  ],
+  "phishing": [
+    "googIe.com",
+    "faceb00k.com",
+    "twiter.com",
+    "linkedln.com",
+    "githup.com",
+    "stackoverfl0w.com",
+    "g00gle.com",
+    "facebοοk.com",
+    "micrοsοft.com",
+    "аpple.com",
+    "аmazon.com",
+    "paypaI.com",
+    "netfIix.com",
+    "instаgram.com",
+    "whаtsapp.com"
+  ]
+}
