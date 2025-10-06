@@ -1,6 +1,5 @@
 # Fahis - أداة مكافحة التصيد الاحتيالي
 
-![Fahis Logo](https://via.placeholder.com/400x200?text=Fahis+Logo) <!-- Placeholder for a future logo -->
 
 ## نظرة عامة
 
